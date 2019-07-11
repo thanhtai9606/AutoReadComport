@@ -1,0 +1,11 @@
+D:\WPF+Remoting\AcrylicWindow\SE38\bin\Debug\SE38.dll
+D:\WPF+Remoting\AcrylicWindow\SE38\bin\Debug\SE38.pdb
+D:\WPF+Remoting\AcrylicWindow\SE38\obj\Debug\SE38.csprojAssemblyReference.cache
+D:\WPF+Remoting\AcrylicWindow\SE38\obj\Debug\Main.g.cs
+D:\WPF+Remoting\AcrylicWindow\SE38\obj\Debug\SE38_MarkupCompile.cache
+D:\WPF+Remoting\AcrylicWindow\SE38\obj\Debug\SE38_MarkupCompile.lref
+D:\WPF+Remoting\AcrylicWindow\SE38\obj\Debug\Main.baml
+D:\WPF+Remoting\AcrylicWindow\SE38\obj\Debug\SE38.g.resources
+D:\WPF+Remoting\AcrylicWindow\SE38\obj\Debug\SE38.csproj.CoreCompileInputs.cache
+D:\WPF+Remoting\AcrylicWindow\SE38\obj\Debug\SE38.dll
+D:\WPF+Remoting\AcrylicWindow\SE38\obj\Debug\SE38.pdb

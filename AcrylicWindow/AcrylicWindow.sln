@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcrylicWindow", "AcrylicWindow\AcrylicWindow.csproj", "{DEEA7B61-B089-4669-970F-DBAD39C8D334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE38", "SE38\SE38.csproj", "{ADC5C527-8AE8-4A71-BAC6-3CFA11AE975A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEA7B61-B089-4669-970F-DBAD39C8D334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEA7B61-B089-4669-970F-DBAD39C8D334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEA7B61-B089-4669-970F-DBAD39C8D334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEA7B61-B089-4669-970F-DBAD39C8D334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC5C527-8AE8-4A71-BAC6-3CFA11AE975A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC5C527-8AE8-4A71-BAC6-3CFA11AE975A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC5C527-8AE8-4A71-BAC6-3CFA11AE975A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC5C527-8AE8-4A71-BAC6-3CFA11AE975A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF6538C6-179C-4D96-9F54-2AAD30BC6EFB}
+	EndGlobalSection
+EndGlobal

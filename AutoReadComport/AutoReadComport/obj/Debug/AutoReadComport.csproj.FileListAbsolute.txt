@@ -1,0 +1,7 @@
+D:\WPF+Remoting\AutoReadComport\AutoReadComport\bin\Debug\AutoReadComport.exe.config
+D:\WPF+Remoting\AutoReadComport\AutoReadComport\bin\Debug\AutoReadComport.exe
+D:\WPF+Remoting\AutoReadComport\AutoReadComport\bin\Debug\AutoReadComport.pdb
+D:\WPF+Remoting\AutoReadComport\AutoReadComport\obj\Debug\AutoReadComport.csprojAssemblyReference.cache
+D:\WPF+Remoting\AutoReadComport\AutoReadComport\obj\Debug\AutoReadComport.csproj.CoreCompileInputs.cache
+D:\WPF+Remoting\AutoReadComport\AutoReadComport\obj\Debug\AutoReadComport.exe
+D:\WPF+Remoting\AutoReadComport\AutoReadComport\obj\Debug\AutoReadComport.pdb
